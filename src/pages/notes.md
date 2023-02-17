@@ -1,7 +1,6 @@
 ---
 title: Wing Chun Notes
 layout: ../layouts/Layout.astro
-draft: true
 ---
 
 [Back to main](/wingchun/)
